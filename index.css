@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding :0;
+    box-sizing: border-box; 
+     /* the height: and width for an element not the content; */
+    font-family: sans-serif;
+
+}
+
+
+a{
+    text-decoration: none;
+    color:rgb(97,97,97);
+}
+
+li{
+    list-style: none;
+}
+
